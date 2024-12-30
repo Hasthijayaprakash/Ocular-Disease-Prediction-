@@ -74,11 +74,7 @@ To address class imbalance, we prioritized:
 
 ---
 
-## Files Submitted
-
-### Report and Dataset:
-- **Phase_3_Advanced_Report.pdf**: Detailed report containing all project details.
-- **Data_used.csv**: Cleaned dataset for training and testing.
+## Files 
 
 ### Python Scripts:
 - `extract_embeddings_resnet.py`: Extract embeddings using ResNet.
