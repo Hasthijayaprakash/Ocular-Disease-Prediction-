@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Based on feedback provided in Phase 2, this project explores the prediction of ocular diseases using advanced machine learning techniques. By implementing models like ResNet and GoogLeNet, we improved our accuracy and conducted thorough research into scholarly documentation and citation standards.
+This project explores the prediction of ocular diseases using advanced machine learning techniques. By implementing models like ResNet and GoogLeNet, we improved our accuracy and conducted thorough research into scholarly documentation and citation standards.
 
 ### Key Results:
 - Improved accuracy from 63% to **64.5%** using Microsoft ResNet.
