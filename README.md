@@ -94,8 +94,7 @@ To address class imbalance, we prioritized:
 ## References
 
 1. [ODIR-5K Dataset on Kaggle](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k)
-2. [XVisionHelper Documentation](https://github.com/moayadeldin/X-vision-helper)
-3. [AUROC and AUPRC Analysis for Class Imbalance](https://arxiv.org/abs/2110.02099)
-4. [GoogLeNet on Wikipedia](https://en.wikipedia.org/wiki/Inception_%28deep_learning_architecture%29)
+2. [AUROC and AUPRC Analysis for Class Imbalance](https://arxiv.org/abs/2110.02099)
+3. [GoogLeNet on Wikipedia](https://en.wikipedia.org/wiki/Inception_%28deep_learning_architecture%29)
 
 ---
